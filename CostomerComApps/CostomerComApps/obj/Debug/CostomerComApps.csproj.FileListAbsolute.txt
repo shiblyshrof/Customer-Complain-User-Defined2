@@ -1,0 +1,18 @@
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\bin\Debug\CostomerComApps.exe.config
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\bin\Debug\CostomerComApps.exe
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\bin\Debug\CostomerComApps.pdb
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.csprojResolveAssemblyReference.cache
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.Form1.resources
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.Properties.Resources.resources
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.csproj.GenerateResource.Cache
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.exe
+c:\users\sabbir ahmed emon\documents\visual studio 2012\Projects\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.pdb
+J:\CostomerComApps\CostomerComApps\bin\Debug\CostomerComApps.exe.config
+J:\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.exe
+J:\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.pdb
+J:\CostomerComApps\CostomerComApps\bin\Debug\CostomerComApps.exe
+J:\CostomerComApps\CostomerComApps\bin\Debug\CostomerComApps.pdb
+J:\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.csprojResolveAssemblyReference.cache
+J:\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.customerUI.resources
+J:\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.Properties.Resources.resources
+J:\CostomerComApps\CostomerComApps\obj\Debug\CostomerComApps.csproj.GenerateResource.Cache
